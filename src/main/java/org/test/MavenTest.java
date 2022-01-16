@@ -28,6 +28,7 @@ public class MavenTest {
 		extReports.flush();
 		System.out.println("Jason is updating");
 		System.out.println("Mathew Updating");
+		System.out.println("Yesterday");
 
 	}
 }
